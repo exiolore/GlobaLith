@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13768666.svg)](https://doi.org/10.5281/zenodo.13768666)
+
 # GlobaLith model
 
 The GlobaLith model presents a global carbon footprint model for the lithium-ion battery industry. The code implements a life cycle assessment (LCA) model to predict the carbon footprint (CF) of lithium-ion batteries (LIBs) based on various chemistries commonly used in electric vehicles,including NMC111, NMC622, NMC811, NCA and LFP.The model follows LCA principles employing a cradle-to-gate system boundary, focusing on material and energy contributions to the CF. It incorporates data from multiple literature sources to calculate the material demand and carbon footprint for LIB production, and a Monte Carlo simulation is performed to quantify uncertainties in the CF estimations. The geographical scope 
